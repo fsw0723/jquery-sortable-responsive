@@ -1,0 +1,11 @@
+.row > div {
+	margin: 12px 0;
+}
+.ui-state-highlight{
+	padding: 0 15px;
+
+}
+.ui-state-highlight>div {
+	background: #ddd;
+	height: 100%;
+}
